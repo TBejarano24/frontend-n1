@@ -2,12 +2,18 @@ body {
     background-color: rgba(231, 82, 55, 0.459);
 }
 
+p {
+    color: brown;
+    font-size: 18px;
+}
+
 #navmenu {
     background-color: rgb(248, 222, 210);
     width: 250px;
 }
 
 .title {
+    font-size: 35px;
     color: orangered;
     text-decoration: underline;
 }
